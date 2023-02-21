@@ -48,5 +48,19 @@ Each of the following case study questions can be answered using a single SQL st
 
 10.In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
+INSIGHTS :
+
+From the analysis, I discovered a few interesting insights that would be certainly useful for Danny.
+
+1. Danny’s Dinner’s most popular item is ramen, followed by curry and sushi.
+
+2. Customer A is the 1st member of Danny’s Dinner and his first order is curry.
+
+3. Customer B is the most frequent visitor with 6 visits in Jan 2021.
+
+4. The last item ordered by Customers A and B before they became members are sushi and curry. It must be really delicious for them to sign up as members.
+
+5. Their points for Customer A: 860, Customer B: 940 and Customer C: 360 Throughout Jan 2021.
+
 
 
